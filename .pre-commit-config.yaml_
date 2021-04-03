@@ -1,0 +1,6 @@
+repos:
+-   repo: https://github.com/cassiodeveloper/appsec
+    rev: ee2d9e85af50159ad91aa9df174ae1a8816d78ee
+    hooks:
+    -   id: detect-aws-credentials
+    -   id: detect-private-key

@@ -1,0 +1,1 @@
+print("wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY")
